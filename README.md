@@ -31,3 +31,5 @@ After creating a repo from this template:
 - Uses Pandoc + XeLaTeX (containerized)
 - No local LaTeX required
 - Safe for academic and documentation projects
+
+Template test successful.
