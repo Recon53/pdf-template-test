@@ -32,4 +32,4 @@ After creating a repo from this template:
 - No local LaTeX required
 - Safe for academic and documentation projects
 
-Template test successful.
+
